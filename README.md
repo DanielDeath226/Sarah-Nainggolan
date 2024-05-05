@@ -14,7 +14,6 @@
     <div class="container">
         <div class="envelope-wrapper">
             <div class="envelope">
-                <br>
                 <div class="letter">
                     <div class="text">
                         <strong>Dear Person.</strong>
